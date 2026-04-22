@@ -1,0 +1,25 @@
+2026-04-22 16:37:52,033 - INFO - Placing MARKET BUY order for 0.01 BTCUSDT.
+2026-04-22 16:37:52,033 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:37:52,430 - INFO - Request successful.
+2026-04-22 16:37:52,430 - INFO - Order Success - ID: 19857391823, Status: FILLED
+
+2026-04-22 16:38:11,888 - INFO - Placing LIMIT SELL order for 0.05 ETHUSDT.
+2026-04-22 16:38:11,888 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:38:12,240 - INFO - Request successful.
+2026-04-22 16:38:12,241 - INFO - Order Success - ID: 89457291884, Status: NEW
+2026-04-22 16:50:18,693 - INFO - Placing LIMIT SELL order for 0.05 ETHUSDT.
+2026-04-22 16:50:18,693 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:50:18,693 - INFO - Request successful.
+2026-04-22 16:50:18,693 - INFO - Order Success - ID: 89457291884, Status: NEW
+2026-04-22 16:50:18,694 - INFO - Placing MARKET BUY order for 0.1 BTCUSDT.
+2026-04-22 16:50:18,694 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:50:18,694 - INFO - Request successful.
+2026-04-22 16:50:18,694 - INFO - Order Success - ID: 1234567, Status: FILLED
+2026-04-22 16:53:21,840 - INFO - Placing LIMIT SELL order for 0.05 ETHUSDT.
+2026-04-22 16:53:21,841 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:53:21,841 - INFO - Request successful.
+2026-04-22 16:53:21,841 - INFO - Order Success - ID: 89457291884, Status: NEW
+2026-04-22 16:53:21,842 - INFO - Placing MARKET BUY order for 0.1 BTCUSDT.
+2026-04-22 16:53:21,842 - INFO - Sending POST request to /fapi/v1/order
+2026-04-22 16:53:21,842 - INFO - Request successful.
+2026-04-22 16:53:21,842 - INFO - Order Success - ID: 1234567, Status: FILLED
